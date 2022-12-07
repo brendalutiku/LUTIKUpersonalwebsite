@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background: rgb(5, 9, 22);
+    color: rgb(128, 0, 53);
+    font-size: 40px;
+    margin: 50px;
+    padding: 80px;
+    border-style:ridge;
+    border-color: rgb(184, 138, 79);
+    border-width: 10px;
+}
+input[type="submit"]{
+background:rgb(7, 38, 216);
+color:rgb(241, 16, 185);
+font-size:30px;
+padding:15px;
+}
+input[placeholder= " your email"]{
+    background: rgb(231, 210, 210);
+    color :rgb(121, 9, 9);
+    font-size: 25px;
+    padding:10px;
+}
+span{
+    color:rgb(226, 230, 23);
+    font-size:35px;
+    font-weight:bold;
+}
